@@ -1,4 +1,5 @@
-# <Library Name>
+
+# Library Name
 
 ## Description
 The folowing documentation will present the general details about the library and its different functionalities.
