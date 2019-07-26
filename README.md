@@ -5,60 +5,122 @@ The folowing documentation will present the general details about the library an
 Some important details to consider before to use it are:
 
   - Application Version:
-  - Browser:
+  - Browser(s):
   - Library version:
 
 ## Features
 
-- [Function 1](#function-1)
-- [Function 2](#function-2)
-- [Function 3](#function-3)
-- [Function 4](#function-4)
-- [Function 5](#function-5)
-- [Function 6](#function-6)
-- [...](#function-n)
-  - Drag and drop images (requires your Dropbox account be linked)
+[Activity 1](#activity-1) 
+[Activity 2](#activity-2) 
+[Activity 3](#activity-3) 
+[Activity 4](#activity-4) 
+[Activity 5](#activity-5) 
+[Activity 6](#activity-6) 
+[...](#activity-n)
 
-## Function 1
+## Activity 1
 ### Details:
-  - Import and save files from GitHub, Dropbox, Google Drive and One Drive
-  - Drag and drop markdown and HTML files into Dillinger
-  - Export documents as Markdown, HTML and PDF
+  - This activity will allow  to ...
+
+    | Command | Description |
+    | --- | --- |
+    | Input | in_argument1 : type; in_argument2 : type; in_argument3 : type;|
+    | Output | out_argument1:type; out_argument2:type; out_argument3:type;|
+    | Input/Output | io_argument1:type; io_argument2:type; io_argument3:type;|
+    | Requirements | Show file differences that haven't been staged |
+    | App Version | Show file differences that haven't been staged |
+
+  - Additional Details:
+  - Examples:
   
-## Function 2
+## Activity 2
 ### Details:
-  - Import and save files from GitHub, Dropbox, Google Drive and One Drive
-  - Drag and drop markdown and HTML files into Dillinger
-  - Export documents as Markdown, HTML and PDF
+  - This activity will allow  to ...
+
+    | Command | Description |
+    | --- | --- |
+    | Input | in_argument1 : type; in_argument2 : type; in_argument3 : type;|
+    | Output | out_argument1:type; out_argument2:type; out_argument3:type;|
+    | Input/Output | io_argument1:type; io_argument2:type; io_argument3:type;|
+    | Requirements | Show file differences that haven't been staged |
+    | App Version | Show file differences that haven't been staged | 
+
+  - Additional Details:
+  - Examples:
   
-## Function 3
+## Activity 3
 ### Details:
-  - Import and save files from GitHub, Dropbox, Google Drive and One Drive
-  - Drag and drop markdown and HTML files into Dillinger
-  - Export documents as Markdown, HTML and PDF
+  - This activity will allow  to ...
+
+    | Command | Description |
+    | --- | --- |
+    | Input | in_argument1 : type; in_argument2 : type; in_argument3 : type;|
+    | Output | out_argument1:type; out_argument2:type; out_argument3:type;|
+    | Input/Output | io_argument1:type; io_argument2:type; io_argument3:type;|
+    | Requirements | Show file differences that haven't been staged |
+    | App Version | Show file differences that haven't been staged |  
+
+  - Additional Details:
+  - Examples:
   
-## Function 4
+## Activity 4
 ### Details:
-  - Import and save files from GitHub, Dropbox, Google Drive and One Drive
-  - Drag and drop markdown and HTML files into Dillinger
-  - Export documents as Markdown, HTML and PDF
+  - This activity will allow  to ...
+
+    | Command | Description |
+    | --- | --- |
+    | Input | in_argument1 : type; in_argument2 : type; in_argument3 : type;|
+    | Output | out_argument1:type; out_argument2:type; out_argument3:type;|
+    | Input/Output | io_argument1:type; io_argument2:type; io_argument3:type;|
+    | Requirements | Show file differences that haven't been staged |
+    | App Version | Show file differences that haven't been staged |  
+
+  - Additional Details:
+  - Examples:
   
-## Function 5
+## Activity 5
 ### Details:
-  - Import and save files from GitHub, Dropbox, Google Drive and One Drive
-  - Drag and drop markdown and HTML files into Dillinger
-  - Export documents as Markdown, HTML and PDF
+  - This activity will allow  to ...
+
+    | Command | Description |
+    | --- | --- |
+    | Input | in_argument1 : type; in_argument2 : type; in_argument3 : type;|
+    | Output | out_argument1:type; out_argument2:type; out_argument3:type;|
+    | Input/Output | io_argument1:type; io_argument2:type; io_argument3:type;|
+    | Requirements | Show file differences that haven't been staged |
+    | App Version | Show file differences that haven't been staged |
+
+  - Additional Details:
+  - Examples:
   
-## Function 6
+## Activity 6
 You can also:
 ### Details:
-  - Import and save files from GitHub, Dropbox, Google Drive and One Drive
-  - Drag and drop markdown and HTML files into Dillinger
-  - Export documents as Markdown, HTML and PDF
+  - This activity will allow  to ...
+
+    | Command | Description |
+    | --- | --- |
+    | Input | in_argument1 : type; in_argument2 : type; in_argument3 : type;|
+    | Output | out_argument1:type; out_argument2:type; out_argument3:type;|
+    | Input/Output | io_argument1:type; io_argument2:type; io_argument3:type;|
+    | Requirements | Show file differences that haven't been staged |
+    | App Version | Show file differences that haven't been staged | 
+
+  - Additional Details:
+  - Examples:
   
-## Function N
+## Activity N
 You can also:
 ### Details:
-  - Import and save files from GitHub, Dropbox, Google Drive and One Drive
-  - Drag and drop markdown and HTML files into Dillinger
-  - Export documents as Markdown, HTML and PDF
+  - This activity will allow  to ...
+
+    | Command | Description |
+    | --- | --- |
+    | Input | in_argument1 : type; in_argument2 : type; in_argument3 : type;|
+    | Output | out_argument1:type; out_argument2:type; out_argument3:type;|
+    | Input/Output | io_argument1:type; io_argument2:type; io_argument3:type;|
+    | Requirements | Show file differences that haven't been staged |
+    | App Version | Show file differences that haven't been staged |
+
+  - Additional Details:
+  - Examples:
