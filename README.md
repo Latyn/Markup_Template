@@ -10,13 +10,13 @@ Some important details to consider before to use it are:
 
 ## Features
 
-[Activity 1](#activity-1) 
-[Activity 2](#activity-2) 
-[Activity 3](#activity-3) 
-[Activity 4](#activity-4) 
-[Activity 5](#activity-5) 
-[Activity 6](#activity-6) 
-[...](#activity-n)
+- [Activity 1](#activity-1) 
+- [Activity 2](#activity-2) 
+- [Activity 3](#activity-3) 
+- [Activity 4](#activity-4) 
+- [Activity 5](#activity-5) 
+- [Activity 6](#activity-6) 
+- [...](#activity-n)
 
 ## Activity 1
 ### Details:
