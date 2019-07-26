@@ -7,7 +7,7 @@ Some important details to consider before to use it are:
 
   - Application Version:
   - Browser(s):
-  - Library version:
+  
 
 ## Features
 
